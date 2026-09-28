@@ -18,3 +18,18 @@ Pod web-pod com Apache e Tomcat.
 Service frontend-service do tipo ClusterIP.
 
 Pod debian-pod usado para testar a comunicação.
+
+<img width="1049" height="712" alt="image" src="https://github.com/user-attachments/assets/30efe5f3-be7f-4e30-b65a-d698a4d64b92" />
+
+
+<img width="1049" height="712" alt="image" src="https://github.com/user-attachments/assets/0c87ba36-af14-415e-9496-cf1af0be9867" />
+
+
+<img width="1049" height="712" alt="image" src="https://github.com/user-attachments/assets/6d7fc6d0-5012-41cb-8634-7a7eeefcdaeb" />
+
+
+<img width="1568" height="810" alt="image" src="https://github.com/user-attachments/assets/622cb6fd-bd26-4c46-8030-680afca6e370" />
+
+
+<img width="1235" height="861" alt="image" src="https://github.com/user-attachments/assets/2e1053c5-41cf-4260-b5a0-d233c6d28c02" />
+
