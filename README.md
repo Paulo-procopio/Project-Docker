@@ -1,4 +1,4 @@
-# Project-Docker
+# Project-Kubernetes
 
 Lab: testando um Service ClusterIP com um Pod Debian
 Neste laboratório, criei um Pod com dois containers (Apache e Tomcat), um Service do tipo ClusterIP e um Pod Debian para testar a comunicação interna do cluster. Instalei o curl no Debian e usei esse Pod como cliente para acessar o Service.
