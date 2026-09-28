@@ -29,7 +29,3 @@ Pod debian-pod usado para testar a comunicação.
 
 
 <img width="1568" height="810" alt="image" src="https://github.com/user-attachments/assets/622cb6fd-bd26-4c46-8030-680afca6e370" />
-
-
-<img width="1235" height="861" alt="image" src="https://github.com/user-attachments/assets/2e1053c5-41cf-4260-b5a0-d233c6d28c02" />
-
