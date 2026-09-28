@@ -7,3 +7,10 @@ spec:
     - name: debian-container
       image: debian:latest
       command: ["sleep", "infinity"]
+      resources:
+        requests:
+          cpu: "100m"
+          memory: "128Mi"
+        limits:
+          cpu: "500m"
+          memory: "256Mi"
